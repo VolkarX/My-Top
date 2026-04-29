@@ -1,10 +1,8 @@
 # My-Top
 
-> **⚠️ Avertissement Epitech**
->
-> Ce projet a été réalisé dans le cadre du cursus **Epitech**. Il est **strictement interdit** de s'en inspirer, de le copier ou de le réutiliser à des fins de triche. Tout plagiat sera sanctionné selon la politique de l'école (-42). 
+**⚠️ AVERTISSEMENT : Ce programme est un projet Epitech. Il est strictement interdit de le réutiliser, de le cloner ou de s'en inspirer pour un de vos rendus académiques sous peine de sanctions pour plagiat (cheat).**
 
-## Description
+## 📝 Description
 
 `My-Top` est une recréation basique de la célèbre commande Unix `top`. Ce programme permet de surveiller en temps réel l'activité du système, incluant :
 - L'uptime, load average et le nombre d'utilisateurs connectés
@@ -14,7 +12,7 @@
 
 Le projet est écrit en **C** et s'appuie sur la bibliothèque **ncurses** pour l'interface de terminal.
 
-## Installation
+## 🛠️ Compilation
 
 Pré-requis :
 - Compilateur `clang`
@@ -35,7 +33,7 @@ D'autres commandes Make sont disponibles :
 - `make re` : Ré-exécute les commandes `fclean` suivie de `all`.
 - `make valgrind` : Compile le projet avec des options de débogage pour Valgrind.
 
-## Utilisation
+## 🚀 Utilisation
 
 Une fois compilé, vous pouvez lancer le programme de base :
 
